@@ -1,12 +1,7 @@
 <template>
   <div id="app">
-    <svg width="200" height="200" viewBox="0 0 200 200">
-      <polygon
-        points="100,10 40,198 190,78 10,78 160,198"
-        fill="gold"
-        stroke="orange"
-        stroke-width="3"
-      />
+    <svg width="100" height="100">
+      <polygon points="50,0 95,27 80,59 65,59 50,86 35,59 20,59 5,27" style="fill:#FFD700;stroke:#000000;stroke-width:2" />
     </svg>
   </div>
 </template>
